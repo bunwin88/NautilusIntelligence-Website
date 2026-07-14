@@ -1,16 +1,21 @@
 {
-  "package_type": "complete-repository-replacement",
-  "target_domain": "nautilusintelligence.ai",
-  "primary_focus": "Nautilus Intelligence and Nautilus Diligence",
-  "safe_to_empty_existing_repository_first": true,
-  "labs_domain": "nautilusintelligencelabs.com",
-  "manifest_note": "File count and hashes exclude PACKAGE_MANIFEST.json itself.",
-  "file_count_excluding_manifest": 29,
+  "package": "NautilusIntelligence.ai Diligence complete GitHub repository",
+  "repository": "https://github.com/bunwin88/NautilusIntelligence-Website",
+  "branch": "main",
+  "custom_domain": "nautilusintelligence.ai",
+  "publishing_source": "GitHub Actions",
+  "workflow": ".github/workflows/deploy-pages.yml",
+  "complete_repository_replacement": true,
   "files": [
     {
       "path": ".github/workflows/deploy-pages.yml",
-      "bytes": 777,
-      "sha256": "926b2a37801124ae8e005dcc0d547bd10100c96c5d17630fba5547ad8da5b921"
+      "bytes": 1285,
+      "sha256": "a75f0d3d8001d4971814c21c22bf2eccdcdd8ffc8115d46aa89d4db16badb75c"
+    },
+    {
+      "path": ".nojekyll",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
     },
     {
       "path": "404.html",
@@ -24,13 +29,33 @@
     },
     {
       "path": "DEPLOYMENT_INSTRUCTIONS.md",
-      "bytes": 1001,
-      "sha256": "cc83f364ac4230dfdf70dd8c11dd228e380482dd46366af929654c28a8c37c5b"
+      "bytes": 713,
+      "sha256": "4ab523c74fe9851c6ad106f6f18fa0b711d5a05241e058db3fe55e301e9c0507"
+    },
+    {
+      "path": "PACKAGE_MANIFEST.json",
+      "bytes": 4932,
+      "sha256": "29f62f801c2a45e0804d1c7d76fa9af820a2e47fe720567d118420130366ef8f"
     },
     {
       "path": "README.md",
       "bytes": 1195,
       "sha256": "44b509bb1be1ea73f815b600807ed4392e52d1176413b579fd44d6450cd14afe"
+    },
+    {
+      "path": "_deployment_tools/README.txt",
+      "bytes": 831,
+      "sha256": "2e01118ab50a00d6637c65d14eb23a0d79e73093a4b006229d17a2010d74b0c1"
+    },
+    {
+      "path": "_deployment_tools/UPLOAD_COMPLETE_REPO_TO_GITHUB.bat",
+      "bytes": 2814,
+      "sha256": "0432f2d7286ac7d42c060a8dfae9c721b2eb1598efd6ff38a8f10a06530df14c"
+    },
+    {
+      "path": "_deployment_tools/VERIFY_COMPLETE_PACKAGE.bat",
+      "bytes": 916,
+      "sha256": "7ce1820e412ea0844b06cf4ba693fe9c5c8f40b5f08b7a6fb553779eea3f7cce"
     },
     {
       "path": "admin-library.html",
