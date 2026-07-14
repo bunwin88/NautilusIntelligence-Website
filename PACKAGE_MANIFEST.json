@@ -1,18 +1,18 @@
 {
-  "package": "Nautilus Intelligence Diligence complete repository \u2014 browser upload / branch deploy",
+  "package": "Nautilus Intelligence Diligence complete repository — browser upload / branch deploy",
   "domain": "nautilusintelligence.ai",
   "publishing_mode": "Deploy from a branch: main /(root)",
   "hidden_files_required": false,
   "files": [
     {
       "path": "404.html",
-      "size": 2330,
-      "sha256": "2fc4aee8fc329fdc1dedc9c3d66cd05f9dd5fd5020d82255659d598bcc164922"
+      "size": 2467,
+      "sha256": "bdf5e5261e30ee9e9bcd91e43673c747780658c977955903a61427700b8e14b6"
     },
     {
       "path": "CNAME",
-      "size": 24,
-      "sha256": "22ce57acec0c3d957a29e1b90ff84a361171bde615054327441b33bd0f2c6249"
+      "size": 23,
+      "sha256": "c02e84770481bcb80e7dd5a4a018ff4db2d35728ef3fd3408233a5eecbf07987"
     },
     {
       "path": "DEPLOYMENT_INSTRUCTIONS.md",
@@ -23,6 +23,11 @@
       "path": "README.md",
       "size": 369,
       "sha256": "5a69d0b33d853e3735c5a6c73bba9cec70346ee122f6a7e0092d657a39ca5c35"
+    },
+    {
+      "path": "about.html",
+      "size": 12494,
+      "sha256": "09d33d83c09e5ec3550c0e6a4580b1a1df64f1b61c66ed1e4cf7b944aa32017f"
     },
     {
       "path": "admin-library.html",
@@ -41,8 +46,8 @@
     },
     {
       "path": "assets/styles.css",
-      "size": 12725,
-      "sha256": "8133b438dfd7f73ef900ddf0878cbc8e63239923c261eac230677689c8567c74"
+      "size": 19446,
+      "sha256": "d7bbcf632ea53cedd4596a2afb5355eb85d684f60b5a79d579ddedbb50ac7a6d"
     },
     {
       "path": "conservation-forestry.html",
@@ -51,18 +56,18 @@
     },
     {
       "path": "contact.html",
-      "size": 3548,
-      "sha256": "57855f9365b277b4740c0d6bc994f99f0db7e6721daa5563a074514ad3136317"
+      "size": 4170,
+      "sha256": "f5f8ca7c94b337c338c49f8a801bafa22ebbb93d9be4b787ba799c6ce4958567"
     },
     {
       "path": "diligence-fit-review.html",
-      "size": 4333,
-      "sha256": "d7b0611837833ca1d933dbe8445671461e8689558cc82edb34305df76bf48b3d"
+      "size": 4965,
+      "sha256": "902b7a74f641fe2c8c4d68361d6a791a9b46a8c8e98ffd84d92c313b18086a98"
     },
     {
       "path": "diligence.html",
-      "size": 7287,
-      "sha256": "6925d9ce26942cf805a95dd0fad3265fba580a4153feb1c46a28cafb3b77e45b"
+      "size": 11256,
+      "sha256": "06d3372506a084e26d540a074dd61efd7eb1054eecbee88775c17ff8e0afc8ad"
     },
     {
       "path": "george.html",
@@ -71,8 +76,8 @@
     },
     {
       "path": "index.html",
-      "size": 8152,
-      "sha256": "92b1de829f62a140161d6a3c66f2d8819babb45c95c5be59c42b11bf9e7ceb59"
+      "size": 10449,
+      "sha256": "2413ac06004bb2cc83965e5a60cbbb866029897d0996a1045cf2ac91711239d9"
     },
     {
       "path": "labs.html",
@@ -81,13 +86,13 @@
     },
     {
       "path": "legal.html",
-      "size": 3682,
-      "sha256": "405e78d21c516a99e9392bdfd53fb56378e29e306993536b23965e4e9d955478"
+      "size": 4671,
+      "sha256": "e8e283b0db1eb5ecc478b661ccd672a19930d0f04c41a610b11255c69704fdd0"
     },
     {
       "path": "library.html",
-      "size": 6435,
-      "sha256": "6ba80be01876095a469875a5db8d1f2358c351aadf4a7ba4de1fef078e2f2578"
+      "size": 6931,
+      "sha256": "334a72b1772d7ebc1ca189496720e1887afd924a7ddfa5e5a335c5cfa6228c36"
     },
     {
       "path": "market-intelligence.html",
@@ -101,13 +106,13 @@
     },
     {
       "path": "public/diligence-free-fit-review-intake-template.md",
-      "size": 1002,
-      "sha256": "a837f33155714840df4a8b19ec3f1775ba61116f01943f8582ced132b89549bd"
+      "size": 2012,
+      "sha256": "55c44ecf9ed870674bbc813a2928b1ff3f04fcce82cd4a9e4fb67b2d87a90e39"
     },
     {
       "path": "public/diligence-tier1-output-checklist.md",
-      "size": 1122,
-      "sha256": "1e52e786fbd8b280778c39ddc099f84da9e7746d499d0e83b56ea61b097d6e5a"
+      "size": 2987,
+      "sha256": "d9fbc9bae9829848486bf9f29562cdd957d1d7c5907877cac429b6fd5a266676"
     },
     {
       "path": "public/diligence-tier1-sample-document-inventory.csv",
@@ -118,6 +123,16 @@
       "path": "public/diligence-tier1-sample-rate-summary.csv",
       "size": 555,
       "sha256": "8b5afc778af25a51e8a307556bebe04a06bb24bfb182380bcfd8642611da07ab"
+    },
+    {
+      "path": "public/nautilus-free-fit-review-intake.docx",
+      "size": 39613,
+      "sha256": "5def4424c483007271d1c8b9741e8d3b620d60615b11b12a7d52db61691358e8"
+    },
+    {
+      "path": "public/nautilus-tier1-parser-pilot-checklist.xlsx",
+      "size": 11263,
+      "sha256": "daaca353f3e3fa3c1c98d7bde26f5f4a0320e30658e6c1741b656105980b7fe0"
     },
     {
       "path": "quantum-genome.html",
@@ -136,8 +151,8 @@
     },
     {
       "path": "system-fit-review.html",
-      "size": 4774,
-      "sha256": "d6169b29da5565a59f933a7346c3c892d6b1806636166eb4935fcf7252ef8890"
+      "size": 6608,
+      "sha256": "301668d2e27ccc89e7d1ed17d9ebaff9763ef06978c26b2e34e56dec205d56c2"
     },
     {
       "path": "updates.html",
