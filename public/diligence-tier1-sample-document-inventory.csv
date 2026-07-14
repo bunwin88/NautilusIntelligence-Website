@@ -1,0 +1,6 @@
+Document ID,Document Type,Coverage Line,Source Party,Review Period,Status,Sample Evidence Note
+DOC-001,Benefits Guide,All Lines,Target,2025,Reviewed,Lists medical dental vision life disability and contribution descriptions
+DOC-002,SBC,Medical/Rx,Target,2025,Reviewed,Supports deductible OOP copay and coinsurance extraction
+DOC-003,Carrier Invoice,Medical/Rx,Carrier,2025,Reviewed,Supports monthly premium and enrollment count tieout
+DOC-004,Wrap SPD,Compliance,Target,2025,Needs Review,Presence identified but controlling plan-year applicability requires confirmation
+DOC-005,Seller Response,DRL / Follow-Up,Seller,Current,Needs Follow-Up,Response answers benefits guide request but does not provide latest invoice support
