@@ -1,0 +1,148 @@
+{
+  "package": "Nautilus Intelligence Diligence complete repository \u2014 browser upload / branch deploy",
+  "domain": "nautilusintelligence.ai",
+  "publishing_mode": "Deploy from a branch: main /(root)",
+  "hidden_files_required": false,
+  "files": [
+    {
+      "path": "404.html",
+      "size": 2330,
+      "sha256": "2fc4aee8fc329fdc1dedc9c3d66cd05f9dd5fd5020d82255659d598bcc164922"
+    },
+    {
+      "path": "CNAME",
+      "size": 24,
+      "sha256": "22ce57acec0c3d957a29e1b90ff84a361171bde615054327441b33bd0f2c6249"
+    },
+    {
+      "path": "DEPLOYMENT_INSTRUCTIONS.md",
+      "size": 657,
+      "sha256": "212a286f743529c89a8f2e9a7017de3cc255f43ca334e603a9a0374c73a3ff48"
+    },
+    {
+      "path": "README.md",
+      "size": 369,
+      "sha256": "5a69d0b33d853e3735c5a6c73bba9cec70346ee122f6a7e0092d657a39ca5c35"
+    },
+    {
+      "path": "admin-library.html",
+      "size": 291,
+      "sha256": "193c864254e91e3ca4f519db99bd1ed20c5e6aefa110e2ade37a625d159d752d"
+    },
+    {
+      "path": "assets/nautilus-hero.png",
+      "size": 1442696,
+      "sha256": "8dc141b20352173db1e0e09835761a36c16dc73a3ac3416191335fda0d8150fe"
+    },
+    {
+      "path": "assets/nautilus-mark.svg",
+      "size": 5598,
+      "sha256": "bc86833cf32c98639a4bd21ce9898cff27916996a3f9126f5244929d542a680e"
+    },
+    {
+      "path": "assets/styles.css",
+      "size": 12725,
+      "sha256": "8133b438dfd7f73ef900ddf0878cbc8e63239923c261eac230677689c8567c74"
+    },
+    {
+      "path": "conservation-forestry.html",
+      "size": 892,
+      "sha256": "eca3ff298491b0035be4a0757ee4565bf1057c6c512341d0626bbe7dc735725a"
+    },
+    {
+      "path": "contact.html",
+      "size": 3548,
+      "sha256": "57855f9365b277b4740c0d6bc994f99f0db7e6721daa5563a074514ad3136317"
+    },
+    {
+      "path": "diligence-fit-review.html",
+      "size": 4333,
+      "sha256": "d7b0611837833ca1d933dbe8445671461e8689558cc82edb34305df76bf48b3d"
+    },
+    {
+      "path": "diligence.html",
+      "size": 7287,
+      "sha256": "6925d9ce26942cf805a95dd0fad3265fba580a4153feb1c46a28cafb3b77e45b"
+    },
+    {
+      "path": "george.html",
+      "size": 272,
+      "sha256": "212fd6fa44252ad97414646f19ce9dfaed96fcb769740d667dba3b7cac0a5951"
+    },
+    {
+      "path": "index.html",
+      "size": 8152,
+      "sha256": "92b1de829f62a140161d6a3c66f2d8819babb45c95c5be59c42b11bf9e7ceb59"
+    },
+    {
+      "path": "labs.html",
+      "size": 814,
+      "sha256": "3bb3423e5fad4aecda61d4afdbc48ab3390ce9403c27f12ecbdaa43bec135709"
+    },
+    {
+      "path": "legal.html",
+      "size": 3682,
+      "sha256": "405e78d21c516a99e9392bdfd53fb56378e29e306993536b23965e4e9d955478"
+    },
+    {
+      "path": "library.html",
+      "size": 6435,
+      "sha256": "6ba80be01876095a469875a5db8d1f2358c351aadf4a7ba4de1fef078e2f2578"
+    },
+    {
+      "path": "market-intelligence.html",
+      "size": 886,
+      "sha256": "31eddfefa09a9b02ddc8d687c084e187d5cad956f387300293aea23ed837771f"
+    },
+    {
+      "path": "member-library.html",
+      "size": 291,
+      "sha256": "193c864254e91e3ca4f519db99bd1ed20c5e6aefa110e2ade37a625d159d752d"
+    },
+    {
+      "path": "public/diligence-free-fit-review-intake-template.md",
+      "size": 1002,
+      "sha256": "a837f33155714840df4a8b19ec3f1775ba61116f01943f8582ced132b89549bd"
+    },
+    {
+      "path": "public/diligence-tier1-output-checklist.md",
+      "size": 1122,
+      "sha256": "1e52e786fbd8b280778c39ddc099f84da9e7746d499d0e83b56ea61b097d6e5a"
+    },
+    {
+      "path": "public/diligence-tier1-sample-document-inventory.csv",
+      "size": 724,
+      "sha256": "ea828cf7bf681d273e37785288d016f0f4253a3730404409d3a489ef5d6af298"
+    },
+    {
+      "path": "public/diligence-tier1-sample-rate-summary.csv",
+      "size": 555,
+      "sha256": "8b5afc778af25a51e8a307556bebe04a06bb24bfb182380bcfd8642611da07ab"
+    },
+    {
+      "path": "quantum-genome.html",
+      "size": 871,
+      "sha256": "a5db25f06c9541e973244f9c116fcd938cb1d0894dc94f44dd982e5807927030"
+    },
+    {
+      "path": "research-desk.html",
+      "size": 868,
+      "sha256": "67ee3568bdcc9ecdd65533c9b6dfd820439dae06009323af7cce13258a5c8eee"
+    },
+    {
+      "path": "robotics-hardware.html",
+      "size": 880,
+      "sha256": "0c701a4dd77e35505f51b65abe1c39058d5616a1ab4f2af759d23e9cd40298f3"
+    },
+    {
+      "path": "system-fit-review.html",
+      "size": 4774,
+      "sha256": "d6169b29da5565a59f933a7346c3c892d6b1806636166eb4935fcf7252ef8890"
+    },
+    {
+      "path": "updates.html",
+      "size": 850,
+      "sha256": "72ad8305e94eb4c8fa2a0ef58d12a85d924eff8a6b39cd05077056592786d2bb"
+    }
+  ]
+}
